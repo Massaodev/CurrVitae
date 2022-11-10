@@ -7,11 +7,11 @@ body {
 }
 
 #Cabeçalho {
-  color: green;
+  color: black;
 }
 
 .FormaçaoProficional {
-  color: dodgerblue;
+  color: yellow;
   background: url(./Imagens/AjudanteDeEletricista.jpg)center/cover no-repeat fixed;
 }
 
@@ -30,7 +30,7 @@ body {
 }
 
 #Eletricista {
-  /*background-image: url(./Imagens/AjudanteDeEletricista.jpg);
+  /*background-image: url(./Imagens/AjudanteDeEletricista.jpg)
   /*background-repeat: no-repeat;*/
   /*papel de parede nao repetido*/
   /*background-size: cover; /*papel de parede unico*/
@@ -47,7 +47,7 @@ body {
   background: url(./Imagens/AjudanteDePedreiro.jpg) center/cover no-repeat fixed;
 }
 
-/*unidades Absolutas*/
+/*unidades Absolutas
 #cm {
   background-color: blue;
   width: 1cm;
@@ -85,4 +85,4 @@ body {
   width: 1pc;
   height: 1pc;
   /*pc=picks=12ponts=12pixel*/
-}
+}*/
